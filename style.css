@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://www.adorama.com/alc/wp-content/uploads/2017/11/shutterstock_114802408-825x465.jpg);
+    width: 100%;
+    padding-top: 310px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    background-color: #2be7be;
+    font-family: 'Arial';
+    border: 2px dotted blue;
+    padding: 10px 15px;
+    width: 250px;
+}
+p {
+    text-align: justify;
+    background-color: hsl(174, 70%, 90%);
+    font-style: italic;
+    padding: 20px;
+    border: 3px solid black;
+    border-top-style: dashed;
+    border-right-style: dotted;
+    border-bottom-style: solid;
+    border-left-style: double;
+    width: 500px;
+
+}
+span {
+    font-weight: bold;
+    font-style: italic;
+    color:  rgb(156, 20, 150);
+    margin: 2px 5px;
+}
